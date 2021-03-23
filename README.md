@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/github/license/OliverCullimore/geo-energy-data?style=for-the-badge)](https://github.com/OliverCullimore/geo-energy-data)
 
-# eetv-client
+# EETV Client
 
 Client for EETV Boxes API written in Go
 
