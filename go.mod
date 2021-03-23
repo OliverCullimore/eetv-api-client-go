@@ -1,3 +1,3 @@
-module github.com/olivercullimore/eetv-api-client-go
+module github.com/olivercullimore/eetv-client
 
 go 1.14
