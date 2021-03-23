@@ -24,7 +24,7 @@ import (
 
 func main() {
 	var eetvBaseURL = "" // Enter http://EETVBOXIP/ filling in the EETVBOXIP with the IP of your EETV Box
-	var eetvAppKey = ""  // leave this blank usually
+	var eetvAppKey  = "" // leave this blank usually
 
 	// Init EETV API with config
 	eetvAPI = eetv.New(eetvBaseURL, eetvAppKey)
