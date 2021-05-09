@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/OliverCullimore/geo-energy-data?style=for-the-badge)](https://github.com/OliverCullimore/geo-energy-data)
+[![License](https://img.shields.io/github/license/OliverCullimore/eetv-client?style=for-the-badge)](https://github.com/OliverCullimore/eetv-client)
 
 # EETV Client
 
